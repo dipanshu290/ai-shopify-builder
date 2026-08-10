@@ -1,0 +1,65 @@
+{
+	"version": 1,
+	"sessions": {
+		"ba84ff81-7558-4714-9cf9-c314d4e34493": {
+			"sessionId": "ba84ff81-7558-4714-9cf9-c314d4e34493",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/ba84ff81-7558-4714-9cf9-c314d4e34493.jsonl",
+			"updatedAt": "2026-07-20T15:30:35.767Z",
+			"source": "claude"
+		},
+		"b67b474f-a30f-4209-8f5b-d67bdfcaa23f": {
+			"sessionId": "b67b474f-a30f-4209-8f5b-d67bdfcaa23f",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/b67b474f-a30f-4209-8f5b-d67bdfcaa23f.jsonl",
+			"updatedAt": "2026-07-20T17:40:19.254Z",
+			"source": "claude"
+		},
+		"ce6343ad-3341-496b-8c27-79e49697d749": {
+			"sessionId": "ce6343ad-3341-496b-8c27-79e49697d749",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/ce6343ad-3341-496b-8c27-79e49697d749.jsonl",
+			"updatedAt": "2026-07-20T19:40:20.887Z",
+			"source": "claude"
+		},
+		"8edc673b-162c-4798-9de2-248349335379": {
+			"sessionId": "8edc673b-162c-4798-9de2-248349335379",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/8edc673b-162c-4798-9de2-248349335379.jsonl",
+			"updatedAt": "2026-07-20T21:26:32.148Z",
+			"source": "claude"
+		},
+		"f1365878-0b40-41f6-a80c-609abe7cf6a9": {
+			"sessionId": "f1365878-0b40-41f6-a80c-609abe7cf6a9",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/f1365878-0b40-41f6-a80c-609abe7cf6a9.jsonl",
+			"updatedAt": "2026-07-21T02:18:31.297Z",
+			"source": "claude"
+		},
+		"13ded99b-7194-44eb-bdc0-5a590a9de5a1": {
+			"sessionId": "13ded99b-7194-44eb-bdc0-5a590a9de5a1",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/13ded99b-7194-44eb-bdc0-5a590a9de5a1.jsonl",
+			"updatedAt": "2026-07-22T02:35:14.654Z",
+			"source": "claude"
+		},
+		"a97a6dca-3a43-4c44-badf-bceab2c0f0d8": {
+			"sessionId": "a97a6dca-3a43-4c44-badf-bceab2c0f0d8",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/a97a6dca-3a43-4c44-badf-bceab2c0f0d8.jsonl",
+			"updatedAt": "2026-07-22T02:55:30.437Z",
+			"source": "claude"
+		},
+		"dc0a03f7-08ed-4f30-b454-67e8d1a10658": {
+			"sessionId": "dc0a03f7-08ed-4f30-b454-67e8d1a10658",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/dc0a03f7-08ed-4f30-b454-67e8d1a10658.jsonl",
+			"updatedAt": "2026-07-22T03:23:21.181Z",
+			"source": "claude"
+		},
+		"075ed68d-ee92-4bf8-919d-b252519d4ad2": {
+			"sessionId": "075ed68d-ee92-4bf8-919d-b252519d4ad2",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/075ed68d-ee92-4bf8-919d-b252519d4ad2.jsonl",
+			"updatedAt": "2026-07-22T12:57:03.573Z",
+			"source": "claude"
+		},
+		"6f8de4af-2d5e-454e-8033-8f255605ba09": {
+			"sessionId": "6f8de4af-2d5e-454e-8033-8f255605ba09",
+			"transcriptPath": "/Users/rahulsanap/.claude/projects/-Users-rahulsanap-Documents-Projects-Nextjs-2026-ai-shopify-template-builder/6f8de4af-2d5e-454e-8033-8f255605ba09.jsonl",
+			"updatedAt": "2026-07-22T13:56:43.170Z",
+			"source": "claude"
+		}
+	}
+}

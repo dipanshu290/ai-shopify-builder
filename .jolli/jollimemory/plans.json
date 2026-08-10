@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"plans": {
+		"shopify-export-setup": {
+			"slug": "shopify-export-setup",
+			"title": "Shopify Export — backend setup",
+			"sourcePath": "/Users/rahulsanap/Documents/Projects/Nextjs 2026/ai-shopify-template-builder/docs/shopify-export-setup.md",
+			"addedAt": "2026-07-21T02:07:24.291Z",
+			"updatedAt": "2026-07-21T02:30:09.354Z",
+			"commitHash": "26a8c82f43331e2edcb428503674fb386d32e769",
+			"branch": "9.Imagekit-Setup",
+			"contentHashAtCommit": "d721285224277e3030a7452f71f4f4721ec66e0bfd52fb69d3a085336f0f1e2b"
+		},
+		"projects-thumbnails-setup": {
+			"slug": "projects-thumbnails-setup",
+			"title": "Projects page & thumbnails — backend setup",
+			"sourcePath": "/Users/rahulsanap/Documents/Projects/Nextjs 2026/ai-shopify-template-builder/docs/projects-thumbnails-setup.md",
+			"addedAt": "2026-07-22T03:17:10.968Z",
+			"updatedAt": "2026-07-22T03:27:57.336Z",
+			"commitHash": "022cc3cc18ba21eaaeb1634f371bdd4fd2897a81",
+			"branch": "11.-Export-to-Code-and-Image",
+			"contentHashAtCommit": "87afcac6eefd97a82556abf0d4690b936ea2372805fe65470016e80e783a80f4"
+		},
+		"billing-setup": {
+			"slug": "billing-setup",
+			"title": "Billing & subscriptions setup (Stripe + InsForge)",
+			"sourcePath": "/Users/rahulsanap/Documents/Projects/Nextjs 2026/ai-shopify-template-builder/docs/billing-setup.md",
+			"addedAt": "2026-07-22T12:57:03.584Z",
+			"updatedAt": "2026-07-22T13:14:55.892Z",
+			"commitHash": "c8701962383353ba3911711c6766e8ea37d4336d",
+			"branch": "12.-AI-Shopify-template-builder",
+			"contentHashAtCommit": "260bdd053c01c7608ffffd1091785e6c270ac881183b701ba2e157697c5f2a2f"
+		},
+		"projectsetup": {
+			"slug": "projectsetup",
+			"title": "Project Setup",
+			"sourcePath": "/Users/rahulsanap/Documents/Projects/Nextjs 2026/ai-shopify-template-builder/projectsetup.md",
+			"addedAt": "2026-07-22T18:47:04.160Z",
+			"updatedAt": "2026-07-22T18:47:04.160Z",
+			"commitHash": null,
+			"branch": "main"
+		}
+	}
+}

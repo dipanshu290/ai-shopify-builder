@@ -1,0 +1,6 @@
+{
+	"branch": "13.-Subscription-Billing-Payment-Integrration",
+	"lastCommitHash": "56e841af03aafd31ae03f03b64a86d9336fda9ee",
+	"briefingText": "[Jolli Memory — 13.-Subscription-Billing-Payment-Integrration]\n2 commits (2026-07-22 ~ 2026-07-22) | 48 files, +2635 -90\nLast: Require sign-in before opening Projects or Billing, but keep Home public (2026-07-22)\nDecisions: - **Centralized gate over per-page checks**: instead of repeating the sign-in redirect logic on each protected page, the check was moved into the shared layout so Projects, Billing, and any future pr…",
+	"generatedAt": "2026-07-22T13:55:21.389Z"
+}

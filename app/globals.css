@@ -1,0 +1,143 @@
+@import "tailwindcss";
+
+:root {
+  /* Primary Colors */
+  --color-primary-600: #FF5840;
+  --color-primary-500: #FF8966;
+  --color-primary-300: #FFB3A1;
+  --color-primary-200: #FFC9B8;
+  --color-primary-100: #FFE5DE;
+
+  /* Neutral Colors */
+  --color-neutral-900: #0F1724;
+  --color-neutral-700: #2C3E54;
+  --color-neutral-500: #6B7C96;
+  --color-neutral-300: #B0C4D9;
+  --color-neutral-100: #DCE5ED;
+  --color-neutral-50: #F4F9FF;
+
+  /* Semantic Colors */
+  --color-success: #22CC58;
+  --color-warning: #F9B838;
+  --color-error: #EF4444;
+  --color-info: #2882F6;
+  --color-purple: #885CF8;
+
+  /* Background & Foreground */
+  --background: #FFFFFF;
+  --foreground: #0F1724;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #F4F9FF;
+  }
+}
+
+@theme inline {
+  /* Colors */
+  --color-primary: {
+    600: var(--color-primary-600);
+    500: var(--color-primary-500);
+    300: var(--color-primary-300);
+    200: var(--color-primary-200);
+    100: var(--color-primary-100);
+  };
+  --color-neutral: {
+    900: var(--color-neutral-900);
+    700: var(--color-neutral-700);
+    500: var(--color-neutral-500);
+    300: var(--color-neutral-300);
+    100: var(--color-neutral-100);
+    50: var(--color-neutral-50);
+  };
+  --color-success: var(--color-success);
+  --color-warning: var(--color-warning);
+  --color-error: var(--color-error);
+  --color-info: var(--color-info);
+  --color-purple: var(--color-purple);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  /* Typography */
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-geist-mono);
+
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 0.75rem;
+  --spacing-base: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+  --spacing-3xl: 4rem;
+  --spacing-4xl: 6rem;
+
+  /* Border Radius */
+  --radius-none: 0;
+  --radius-xs: 5px;
+  --radius-sm: 8px;
+  --radius-base: 12px;
+  --radius-md: 16px;
+  --radius-lg: 20px;
+  --radius-full: 999px;
+
+  /* Shadows */
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 4px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 8px 16px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 16px 32px rgba(0, 0, 0, 0.08);
+  --shadow-xl: 0 32px 64px rgba(0, 0, 0, 0.1);
+
+  /* Font Sizes */
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-lg: 18px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 28px;
+  --text-4xl: 36px;
+
+  /* Line Heights */
+  --leading-xs: 1.33;
+  --leading-sm: 1.43;
+  --leading-base: 1.5;
+  --leading-lg: 1.33;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Typography Utility Classes */
+.text-h1 {
+  @apply text-4xl font-bold leading-[44px];
+}
+
+.text-h2 {
+  @apply text-3xl font-semibold leading-9;
+}
+
+.text-h3 {
+  @apply text-2xl font-semibold leading-7;
+}
+
+.text-h4 {
+  @apply text-lg font-medium leading-6;
+}
+
+.text-body-lg {
+  @apply text-base font-normal leading-6;
+}
+
+.text-body-base {
+  @apply text-sm font-normal leading-5;
+}
+
+.text-body-sm {
+  @apply text-xs font-normal leading-4;
+}
